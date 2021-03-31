@@ -6,13 +6,19 @@ The course combines theoretical viewpoints on stance with practical approaches t
 
 More information will be given in the course.
 
-### Prerequisites
+### 1. Prerequisites
 
-This course relies on a couple of tools that shall help us while we investigate stance detection. As I do not expect you to be familiar with them, here are a couple of tutorials to get you started. We will talk about the tools in the course as well. 
+This course relies on a couple of tools that shall help us while we investigate stance detection. As I do not assume you to be experts, here are a couple of tutorials to get you started. We will talk about the tools in the course as well. (If you are already set up feel free to skip this section.)
 
-#### Virtual Environments 
+#### 1.1. Python
 
-#### Git 
+All code examples presented/discussed in this course are written in Python. As the module of the course is scheduled for the third or fourth semester, which happen to be same semesters where programming is taught, I do not require you to know how to code already (although some familiarity will help of course). This in no introduction to Python programming. In order to enable everyone to participate I will provide Jupyter Notebooks which you can manipulate. 
 
-#### Jupyter Notebooks
+If not happened already, please install Python (Version: >=3.6.). Find out how to do this by having a look on the [Python homepage](https://www.python.org/). 
+
+#### 1.1. Virtual Environments 
+
+#### 1.1. Git 
+
+#### 1.1. Jupyter Notebooks
 
