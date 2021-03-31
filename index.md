@@ -16,7 +16,7 @@ All code examples presented/discussed in this course are written in Python. As t
 
 If not happened already, please install Python (Version: >=3.6.). Find out how to do this by having a look on the [Python homepage](https://www.python.org/). Alternatively (and maybe preferably), use virtual environments (see 1.1.).
 
-Additionally, you will need the following Python packages: NumPy, pandas, scikit-learn, matplotlib.
+Additionally, you will need the following Python packages: [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [matplotlib](https://matplotlib.org/).
 
 #### 1.1. Virtual Environments 
 
