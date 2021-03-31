@@ -20,9 +20,13 @@ Additionally, you will need the following Python packages: [NumPy](https://numpy
 
 #### 1.1. Virtual Environments 
 
-Using virtual environments is not mandatory but helps you a lot if you have to manage several projects (which can happen pretty quickly). You could create virtual environments using [Conda](https://docs.conda.io/en/latest/)(a package manager). I recommend to install [miniconda](https://docs.conda.io/en/latest/miniconda.html) and install the additional Python packages in a virtual environment you created for the course. Of course you can use any other package manager/ virtual environment tool you prefer.  
+Using virtual environments is not mandatory but helps you a lot if you have to manage several projects (which can happen pretty quickly). You could create virtual environments using [Conda](https://docs.conda.io/en/latest/) (a package manager). I recommend to install [miniconda](https://docs.conda.io/en/latest/miniconda.html) and install the additional Python packages in a virtual environment you created for the course. Of course you can use any other package manager/ virtual environment tool you prefer.  
 
 #### 1.1. Git 
+
+You will not need a lot of git in this course. You will need to clone the course repo once (`git clone repo-name`) and pull updates now and again (`git pull`). 
+
+If you want to learn more about git you could have a look [here](https://learngitbranching.js.org/).
 
 #### 1.1. Jupyter Notebooks
 
