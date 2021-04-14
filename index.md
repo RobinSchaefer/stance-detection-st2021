@@ -18,17 +18,17 @@ If not happened already, please install Python (Version: >=3.6.). Find out how t
 
 Additionally, you will need the following Python packages: [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [matplotlib](https://matplotlib.org/). 
 
-#### 1.1. Virtual Environments 
+#### 1.2. Virtual Environments 
 
 Using virtual environments is not mandatory but helps you a lot if you have to manage several projects (which can happen pretty quickly). You can create virtual environments using [Conda](https://docs.conda.io/en/latest/) (a package manager). I recommend to install [miniconda](https://docs.conda.io/en/latest/miniconda.html) and install the additional Python packages in a virtual environment you created for the course. Of course you can use any other package manager/ virtual environment tool you prefer.  
 
-#### 1.1. Git 
+#### 1.3. Git 
 
 You will not need a lot of git in this course. You will need to clone the course repo once (`git clone repo-name`) and pull updates now and again (`git pull`). 
 
 If you want to learn more about git you could have a look [here](https://learngitbranching.js.org/).
 
-#### 1.1. Jupyter Notebooks
+#### 1.4. Jupyter Notebooks
 
 Notebooks are a helpful tool for writing code projects. The advantage compared to standard Python scripts lies in the opportunity to add blocks of markdown text between code blocks. I will rely on this tool in the course. Notebooks are fairly simple to use. A tutorial can be found [here](https://www.dataquest.io/blog/jupyter-notebook-tutorial/).
 
