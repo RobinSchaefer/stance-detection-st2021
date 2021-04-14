@@ -12,15 +12,15 @@ This course relies on a couple of tools that shall help us while we investigate 
 
 #### 1.1. Python
 
-All code examples presented/discussed in this course are written in Python. As the module of the course is scheduled for the third or fourth semester, which happen to be same semesters where programming is taught, I do not require you to know how to code already (although some familiarity will help of course). This in no introduction to Python programming. In order to enable everyone to participate I will provide Jupyter Notebooks which you can manipulate. 
+All code examples presented/discussed in this course are written in Python. As the module of the course is scheduled for the third or fourth semester, which happen to be the exact semesters where programming is taught, I do not require you to know how to code already (although some familiarity will help of course). This is no introduction to Python programming. In order to enable everyone to participate I will provide Jupyter Notebooks which you can manipulate. 
 
-If not happened already, please install Python (Version: >=3.6.). Find out how to do this by having a look on the [Python homepage](https://www.python.org/). Alternatively (and maybe preferably), use virtual environments (see 1.1.).
+If not happened already, please install Python (Version: >=3.6.). Find out how to do this for your operating system by having a look on the [Python homepage](https://www.python.org/). Alternatively (and maybe preferably), use virtual environments (see 1.1.).
 
 Additionally, you will need the following Python packages: [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [matplotlib](https://matplotlib.org/).
 
 #### 1.1. Virtual Environments 
 
-Using virtual environments is not mandatory but helps you a lot if you have to manage several projects (which can happen pretty quickly). You could create virtual environments using [Conda](https://docs.conda.io/en/latest/) (a package manager). I recommend to install [miniconda](https://docs.conda.io/en/latest/miniconda.html) and install the additional Python packages in a virtual environment you created for the course. Of course you can use any other package manager/ virtual environment tool you prefer.  
+Using virtual environments is not mandatory but helps you a lot if you have to manage several projects (which can happen pretty quickly). You can create virtual environments using [Conda](https://docs.conda.io/en/latest/) (a package manager). I recommend to install [miniconda](https://docs.conda.io/en/latest/miniconda.html) and install the additional Python packages in a virtual environment you created for the course. Of course you can use any other package manager/ virtual environment tool you prefer.  
 
 #### 1.1. Git 
 
