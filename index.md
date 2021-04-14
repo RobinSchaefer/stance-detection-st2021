@@ -16,7 +16,7 @@ All code examples presented/discussed in this course are written in Python. As t
 
 If not happened already, please install Python (Version: >=3.6.). Find out how to do this for your operating system by having a look on the [Python homepage](https://www.python.org/). Alternatively (and maybe preferably), use virtual environments (see 1.1.).
 
-Additionally, you will need the following Python packages: [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [matplotlib](https://matplotlib.org/).
+Additionally, you will need the following Python packages: [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [matplotlib](https://matplotlib.org/). 
 
 #### 1.1. Virtual Environments 
 
@@ -29,4 +29,6 @@ You will not need a lot of git in this course. You will need to clone the course
 If you want to learn more about git you could have a look [here](https://learngitbranching.js.org/).
 
 #### 1.1. Jupyter Notebooks
+
+Notebooks are a helpfull tool for writing code projects. The advantage compared to standard Python scripts lies in the opportunity to add blocks of markdown text between code blocks. I will rely on this tool in this course. Notebooks are fairly simple to use. A tutorial can be found [here] (https://www.dataquest.io/blog/jupyter-notebook-tutorial/).
 
