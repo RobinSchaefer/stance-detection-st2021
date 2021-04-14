@@ -30,5 +30,5 @@ If you want to learn more about git you could have a look [here](https://learngi
 
 #### 1.1. Jupyter Notebooks
 
-Notebooks are a helpful tool for writing code projects. The advantage compared to standard Python scripts lies in the opportunity to add blocks of markdown text between code blocks. I will rely on this tool in the course. Notebooks are fairly simple to use. A tutorial can be found [here] (https://www.dataquest.io/blog/jupyter-notebook-tutorial/).
+Notebooks are a helpful tool for writing code projects. The advantage compared to standard Python scripts lies in the opportunity to add blocks of markdown text between code blocks. I will rely on this tool in the course. Notebooks are fairly simple to use. A tutorial can be found [here](https://www.dataquest.io/blog/jupyter-notebook-tutorial/).
 
