@@ -34,4 +34,14 @@ Notebooks are a helpful tool for writing code projects. The advantage compared t
 
 ### 2. Stance Detection 
 
+#### 2.1. Stance Detection in Political Debates (Somasundaran & Wiebe 2010)
+
+The first notebook covers stance detection in political debates and is based on work by 
+Somasundaran & Wiebe from 2010. Here we cover basics in scikit-learn and train first
+models on n-gram features. We also have a look at in-domain and cross-domain testing.
+
+The notebook can be found [here](https://github.com/RobinSchaefer/stance-detection-st2021/blob/gh-pages/notebooks/SomasundaranWiebe2010_PoliticalDebates.ipynb).
+
+
+
 
