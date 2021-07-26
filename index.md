@@ -55,7 +55,7 @@ The third notebook is the first part of two notebooks that cover the training of
 
 The notebook can be found [here](https://github.com/RobinSchaefer/stance-detection-st2021/blob/gh-pages/notebooks/DL_Classifier_Training_SomasundaranWiebe2010_Part_1.ipynb).
 
-#### 2.3.2. # Stance Detection in Political Debates Using Deep Learning Techniques II
+#### 2.3.2. Stance Detection in Political Debates Using Deep Learning Techniques II
 
 The fourth notebook is the second part of two notebooks that cover the training of DL models
 and are based again on the corpus of Somasundaran & Wiebe from 2010. In this notebook we cover
