@@ -42,6 +42,25 @@ models on n-gram features. We also have a look at in-domain and cross-domain tes
 
 The notebook can be found [here](https://github.com/RobinSchaefer/stance-detection-st2021/blob/gh-pages/notebooks/SomasundaranWiebe2010_PoliticalDebates.ipynb).
 
+#### 2.2. Stance Detection in Tweets (Conforti Et Al 2020)
 
+The second notebook covers stance detection in tweets. It is based on the currently largest
+stance detection corpus, which was published by Conforti Et Al 2020. We cover document embeddings and train a larger variety of classification models. 
+
+The notebook can be found [here](https://github.com/RobinSchaefer/stance-detection-st2021/blob/gh-pages/notebooks/ConfortiEtAl2020_WillTheyWontThey.ipynb).
+
+#### 2.3.1 Stance Detection in Political Debates Using Deep Learning Techniques I
+
+The third notebook is the first part of two notebooks that cover the training of DL models and are based again on the corpus of Somasundaran & Wiebe from 2010. In this notebook we prepare the data and create stratified shuffle splits.
+
+The notebook can be found [here](https://github.com/RobinSchaefer/stance-detection-st2021/blob/gh-pages/notebooks/DL_Classifier_Training_SomasundaranWiebe2010_Part_1.ipynb).
+
+#### 2.3.2. # Stance Detection in Political Debates Using Deep Learning Techniques II
+
+The fourth notebook is the second part of two notebooks that cover the training of DL models
+and are based again on the corpus of Somasundaran & Wiebe from 2010. In this notebook we cover
+feature extraction and model training. 
+
+The notebook can be found [here](https://github.com/RobinSchaefer/stance-detection-st2021/blob/gh-pages/notebooks/DL_Classifier_Training_SomasundaranWiebe2010_Part_2.ipynb).
 
 
